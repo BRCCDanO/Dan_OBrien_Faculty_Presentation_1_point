@@ -1,5 +1,4 @@
-### Title
-Faculty Presentation for Dan OBrien, March 27, 2023
+# Faculty Presentation for Dan OBrien, March 27, 2023
 ### Files
 Point code in Java consists of main and point programs in /src
 ### Introduction
